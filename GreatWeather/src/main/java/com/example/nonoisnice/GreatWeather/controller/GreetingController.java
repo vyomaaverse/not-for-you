@@ -9,6 +9,6 @@ public class GreetingController {
     @RequestMapping("/greeting")
     public String getGreeting(){
 
-        return "Hi, I'm Nono and I'm a nice person!";
+        return "NoNo";
     }
 }
