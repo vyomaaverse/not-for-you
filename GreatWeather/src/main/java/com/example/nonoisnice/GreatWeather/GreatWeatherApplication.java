@@ -1,0 +1,13 @@
+package com.example.nonoisnice.GreatWeather;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class GreatWeatherApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(GreatWeatherApplication.class, args);
+	}
+
+}
