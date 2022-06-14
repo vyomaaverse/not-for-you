@@ -1,6 +1,4 @@
 # not-for-you
-##### This is a game for Polar Bears.
-##### And if you're reading this,
-##### you are not a polar bear.
-##### Hence, this game is not for you.
-##### Thank you :)
+##### This is for Polar Bears
+##### You are not a Polar Bear
+##### This is not-for-you!
